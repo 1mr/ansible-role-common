@@ -1,0 +1,14 @@
+---
+galaxy_info:
+  role_name: common
+  author: Stas Stavnichuk
+  description: install common packages
+  license: BSD
+  min_ansible_version: 1.4
+  platforms:
+  - name: Debian
+    versions:
+    - jessie
+    - stretch
+galaxy_tags:
+  - system
